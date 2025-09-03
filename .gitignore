@@ -416,3 +416,11 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Ignore SQL Server local database files
+*.mdf
+*.ldf
+*.ndf
+*.bak
+*.trn
+
