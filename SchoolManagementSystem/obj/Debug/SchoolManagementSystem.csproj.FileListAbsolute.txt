@@ -1,0 +1,314 @@
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe.config
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.pdb
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.AssemblyReference.cache
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.Splash.resources
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.Properties.Resources.resources
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.GenerateResource.cache
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.CoreCompileInputs.cache
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.exe
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.pdb
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.SuggestedBindingRedirects.cache
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.exe.config
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.Attendance.resources
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.Dashboard.resources
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.Events.resources
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.Fees.resources
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.Login.resources
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.MainMenu.resources
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.Students.resources
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.Teachers.resources
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\libSkiaSharp.dylib
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\x86\libSkiaSharp.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\x64\libSkiaSharp.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\arm64\libSkiaSharp.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\EntityFramework.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\EntityFramework.SqlServer.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\LottieSharp.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\MetroFramework.Design.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\MetroFramework.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\MetroFramework.Fonts.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\Microsoft.Bcl.Cryptography.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\Microsoft.Win32.Registry.AccessControl.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\Microsoft.Win32.Registry.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\Microsoft.Win32.SystemEvents.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\Microsoft.Xaml.Behaviors.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SkiaSharp.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SkiaSharp.SceneGraph.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SkiaSharp.Skottie.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SkiaSharp.Views.Desktop.Common.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SkiaSharp.Views.WPF.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.Buffers.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.CodeDom.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.Data.Odbc.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.Data.OleDb.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.Data.SqlClient.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.Diagnostics.EventLog.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.Drawing.Common.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.Formats.Asn1.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.IO.FileSystem.AccessControl.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.IO.Packaging.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.IO.Pipelines.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.IO.Pipes.AccessControl.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.IO.Ports.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.Memory.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.Numerics.Vectors.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.Security.AccessControl.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.Security.Cryptography.Cng.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.Security.Cryptography.Pkcs.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.Security.Cryptography.Xml.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.Security.Permissions.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.Security.Principal.Windows.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.ServiceModel.Duplex.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.ServiceModel.Http.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.ServiceModel.NetTcp.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.ServiceModel.Primitives.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.ServiceModel.Security.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.ServiceModel.Syndication.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.ServiceProcess.ServiceController.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.Text.Encodings.Web.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.Text.Json.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.Threading.AccessControl.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.ValueTuple.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.Web.Services.Description.dll
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\EntityFramework.xml
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\EntityFramework.SqlServer.xml
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\Microsoft.Bcl.Cryptography.xml
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\Microsoft.Win32.Registry.xml
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\Microsoft.Win32.SystemEvents.xml
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\Microsoft.Xaml.Behaviors.xml
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SkiaSharp.pdb
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SkiaSharp.xml
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SkiaSharp.SceneGraph.pdb
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SkiaSharp.SceneGraph.xml
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SkiaSharp.Skottie.pdb
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SkiaSharp.Skottie.xml
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SkiaSharp.Views.Desktop.Common.pdb
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SkiaSharp.Views.Desktop.Common.xml
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SkiaSharp.Views.WPF.pdb
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SkiaSharp.Views.WPF.xml
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.Buffers.xml
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.CodeDom.xml
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.Data.Odbc.xml
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.Data.OleDb.xml
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.Data.SqlClient.xml
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.Diagnostics.EventLog.xml
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.Drawing.Common.pdb
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.Drawing.Common.xml
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.Formats.Asn1.xml
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.IO.Packaging.xml
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.IO.Pipelines.xml
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.IO.Ports.xml
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.Memory.xml
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.Numerics.Vectors.xml
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.Security.AccessControl.xml
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.Security.Cryptography.Cng.xml
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.Security.Cryptography.Pkcs.xml
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.Security.Cryptography.Xml.xml
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.Security.Permissions.xml
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.Security.Principal.Windows.xml
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.ServiceModel.Duplex.pdb
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.ServiceModel.Http.pdb
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.ServiceModel.NetTcp.pdb
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.ServiceModel.Primitives.pdb
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.ServiceModel.Security.pdb
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.ServiceModel.Syndication.xml
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.ServiceProcess.ServiceController.xml
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.Text.Encodings.Web.xml
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.Text.Json.xml
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.Threading.AccessControl.xml
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.ValueTuple.xml
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\System.Web.Services.Description.pdb
+E:\5th semester\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolMa.D9F7BBC0.Up2Date
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\libSkiaSharp.dylib
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\x86\libSkiaSharp.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\x64\libSkiaSharp.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\arm64\libSkiaSharp.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe.config
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.pdb
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\EntityFramework.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\EntityFramework.SqlServer.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\LottieSharp.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\MetroFramework.Design.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\MetroFramework.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\MetroFramework.Fonts.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\Microsoft.Bcl.Cryptography.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\Microsoft.Win32.Registry.AccessControl.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\Microsoft.Win32.Registry.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\Microsoft.Win32.SystemEvents.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\Microsoft.Xaml.Behaviors.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\SkiaSharp.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\SkiaSharp.SceneGraph.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\SkiaSharp.Skottie.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\SkiaSharp.Views.Desktop.Common.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\SkiaSharp.Views.WPF.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.Buffers.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.CodeDom.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.Data.Odbc.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.Data.OleDb.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.Data.SqlClient.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.Diagnostics.EventLog.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.Drawing.Common.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.Formats.Asn1.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.IO.FileSystem.AccessControl.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.IO.Packaging.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.IO.Pipelines.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.IO.Pipes.AccessControl.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.IO.Ports.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.Memory.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.Numerics.Vectors.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.Security.AccessControl.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.Security.Cryptography.Cng.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.Security.Cryptography.Pkcs.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.Security.Cryptography.Xml.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.Security.Permissions.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.Security.Principal.Windows.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.ServiceModel.Duplex.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.ServiceModel.Http.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.ServiceModel.NetTcp.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.ServiceModel.Primitives.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.ServiceModel.Security.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.ServiceModel.Syndication.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.ServiceProcess.ServiceController.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.Text.Encodings.Web.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.Text.Json.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.Threading.AccessControl.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.ValueTuple.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.Web.Services.Description.dll
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\EntityFramework.xml
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\EntityFramework.SqlServer.xml
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\Microsoft.Bcl.Cryptography.xml
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\Microsoft.Win32.Registry.xml
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\Microsoft.Win32.SystemEvents.xml
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\Microsoft.Xaml.Behaviors.xml
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\SkiaSharp.pdb
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\SkiaSharp.xml
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\SkiaSharp.SceneGraph.pdb
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\SkiaSharp.SceneGraph.xml
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\SkiaSharp.Skottie.pdb
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\SkiaSharp.Skottie.xml
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\SkiaSharp.Views.Desktop.Common.pdb
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\SkiaSharp.Views.Desktop.Common.xml
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\SkiaSharp.Views.WPF.pdb
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\SkiaSharp.Views.WPF.xml
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.Buffers.xml
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.CodeDom.xml
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.Data.Odbc.xml
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.Data.OleDb.xml
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.Data.SqlClient.xml
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.Diagnostics.EventLog.xml
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.Drawing.Common.pdb
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.Drawing.Common.xml
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.Formats.Asn1.xml
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.IO.Packaging.xml
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.IO.Pipelines.xml
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.IO.Ports.xml
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.Memory.xml
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.Numerics.Vectors.xml
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.Security.AccessControl.xml
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.Security.Cryptography.Cng.xml
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.Security.Cryptography.Pkcs.xml
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.Security.Cryptography.Xml.xml
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.Security.Permissions.xml
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.Security.Principal.Windows.xml
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.ServiceModel.Duplex.pdb
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.ServiceModel.Http.pdb
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.ServiceModel.NetTcp.pdb
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.ServiceModel.Primitives.pdb
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.ServiceModel.Security.pdb
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.ServiceModel.Syndication.xml
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.ServiceProcess.ServiceController.xml
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.Text.Encodings.Web.xml
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.Text.Json.xml
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.Threading.AccessControl.xml
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.ValueTuple.xml
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\bin\Debug\System.Web.Services.Description.pdb
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.AssemblyReference.cache
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.SuggestedBindingRedirects.cache
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.exe.config
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.Attendance.resources
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.Dashboard.resources
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.Events.resources
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.Fees.resources
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.Login.resources
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.MainMenu.resources
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.Splash.resources
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.Properties.Resources.resources
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.Students.resources
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.Teachers.resources
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.GenerateResource.cache
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.CoreCompileInputs.cache
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\obj\Debug\SchoolMa.D9F7BBC0.Up2Date
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.exe
+E:\5th semester\Software Engineering\SchoolManagementSystem project\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.pdb
