@@ -25,14 +25,13 @@ A simple Windows Forms application built with C# .NET Framework and SQL Server t
    ```
 2. Import `schooldb.sql` into SQL Server (SSMS 20)
 3. Open the solution in Visual Studio
-4. Restore packages:
-     - Visual Studio will automatically restore required NuGet packages (from the packages/ folder or online).
-     - If not, right-click the solution in Solution Explorer → Restore NuGet Packages.
-   Update the connection string in Dashboard.cs, replace it with your SQL Server instance.
-   For Example:
-   ```bash
-   SqlConnection Con = new SqlConnection(@"Data Source=FARHANA-FAIZ01;Initial Catalog=schooldb;Integrated Security=True;Encrypt=False");
-   ```
+4. Restore packages & update connection string:
+    - Visual Studio will automatically restore required NuGet packages (from the packages/ folder or online).
+    - If not, right-click the solution in Solution Explorer → Restore NuGet Packages.
+    - Update the connection string in Dashboard.cs, replace it with your SQL Server instance. For Example:
+         ```bash
+         SqlConnection Con = new SqlConnection(@"Data Source=FARHANA-FAIZ01;Initial Catalog=schooldb;Integrated Security=True;Encrypt=False");
+         ```
 5. Run the application
 
 ---
